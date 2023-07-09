@@ -1,6 +1,6 @@
 import yargs from "yargs";
 
-import contactsService from "./db/contacts.js";
+import contactsService from "./contacts.js";
 
 
 
